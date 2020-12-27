@@ -1,6 +1,0 @@
-C:\Users\Miro-GamingPC\source\repos\ShortMultiplicationFormulaFinder\ShortMultiplicationFormulaFinder\bin\Debug\ShortMultiplicationFormulaFinder.exe.config
-C:\Users\Miro-GamingPC\source\repos\ShortMultiplicationFormulaFinder\ShortMultiplicationFormulaFinder\bin\Debug\ShortMultiplicationFormulaFinder.exe
-C:\Users\Miro-GamingPC\source\repos\ShortMultiplicationFormulaFinder\ShortMultiplicationFormulaFinder\bin\Debug\ShortMultiplicationFormulaFinder.pdb
-C:\Users\Miro-GamingPC\source\repos\ShortMultiplicationFormulaFinder\ShortMultiplicationFormulaFinder\obj\Debug\ShortMultiplicationFormulaFinder.csprojAssemblyReference.cache
-C:\Users\Miro-GamingPC\source\repos\ShortMultiplicationFormulaFinder\ShortMultiplicationFormulaFinder\obj\Debug\ShortMultiplicationFormulaFinder.exe
-C:\Users\Miro-GamingPC\source\repos\ShortMultiplicationFormulaFinder\ShortMultiplicationFormulaFinder\obj\Debug\ShortMultiplicationFormulaFinder.pdb
