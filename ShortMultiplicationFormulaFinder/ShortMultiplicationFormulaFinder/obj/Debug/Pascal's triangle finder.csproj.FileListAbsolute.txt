@@ -1,0 +1,6 @@
+C:\Users\Miro-GamingPC\source\repos\Pascal's triangle finder\Pascal's triangle finder\obj\Debug\Pascal's triangle finder.csprojAssemblyReference.cache
+C:\Users\Miro-GamingPC\source\repos\Pascal's triangle finder\Pascal's triangle finder\bin\Debug\ShortMultiplicationFormulaFinder.exe.config
+C:\Users\Miro-GamingPC\source\repos\Pascal's triangle finder\Pascal's triangle finder\bin\Debug\ShortMultiplicationFormulaFinder.exe
+C:\Users\Miro-GamingPC\source\repos\Pascal's triangle finder\Pascal's triangle finder\bin\Debug\ShortMultiplicationFormulaFinder.pdb
+C:\Users\Miro-GamingPC\source\repos\Pascal's triangle finder\Pascal's triangle finder\obj\Debug\ShortMultiplicationFormulaFinder.exe
+C:\Users\Miro-GamingPC\source\repos\Pascal's triangle finder\Pascal's triangle finder\obj\Debug\ShortMultiplicationFormulaFinder.pdb

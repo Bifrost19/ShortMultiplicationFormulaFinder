@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortMultiplicationFormulaFinder", "ShortMultiplicationFormulaFinder\ShortMultiplicationFormulaFinder.csproj", "{B5A35FEB-CD3A-401A-ADBF-72D02AB113FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A35FEB-CD3A-401A-ADBF-72D02AB113FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A35FEB-CD3A-401A-ADBF-72D02AB113FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A35FEB-CD3A-401A-ADBF-72D02AB113FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A35FEB-CD3A-401A-ADBF-72D02AB113FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B61A91E-5E2D-47E2-A977-8AA64486C330}
+	EndGlobalSection
+EndGlobal
